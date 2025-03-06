@@ -53,3 +53,9 @@ Here is a list of exercises related to Markdown and programming:
 - Exercise4
 - Exercise5
 - Exercise6
+
+## Author
+
+- **Name:** Thomas Feyerl
+- **GitHub Profile:** [FrontendTF](https://github.com/FrontendTF)
+- **University:** [FH Joanneum - Mobile Software Development](https://www.fh-joanneum.at/studium/standorte/kapfenberg/)
