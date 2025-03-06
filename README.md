@@ -35,12 +35,20 @@ The project can be cloned, executed, and used as often as desired, whether for p
 
 ---
 
-## Exercises
+## Exercises + Description
 
 Here is a list of exercises related to Markdown and programming:
 
+### Exercise 1
+
 - [Exercise1](exercise1.md)
-- Exercise2
+  This Markdown file is an example for practicing basic Markdown syntax, including headings, links, images, lists, and code blocks. It serves as a structured learning resource for understanding essential Markdown elements.
+
+### Exercise 2
+
+- [Exercise2](exercise2.md)
+  This documentation provides an overview of fundamental Git commands, explaining their functions and usage in a structured table format. Additionally, it offers practical tips for Git workflow, such as checking the repository status using `git status` to view changes in the working directory and staging area before committing or pushing updates.
+
 - Exercise3
 - Exercise4
 - Exercise5
