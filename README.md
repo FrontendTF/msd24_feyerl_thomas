@@ -17,16 +17,18 @@ A simple calculator that supports basic arithmetic operations (addition, subtrac
 1. Open the development environment
 2. Open a new terminal window
 3. Clone the repository:
-   ```
+
+   ```sh
    git clone <repository-url>
    ```
+
 4. Start the project
 
 ## Contribution
 
 This project is currently read-only (READ permissions). If you would like to contribute, please contact the creator/author at:
 
-- **E-Mail:** t.feyerl@gmail.com
+- **E-Mail:** <t.feyerl@gmail.com>
 - **GitHub:** [FrontendTF](https://github.com/FrontendTF)
 
 ## License
@@ -49,7 +51,11 @@ Here is a list of exercises related to Markdown and programming:
 - [Exercise2](exercise2.md)
   This documentation provides an overview of fundamental Git commands, explaining their functions and usage in a structured table format. Additionally, it offers practical tips for Git workflow, such as checking the repository status using `git status` to view changes in the working directory and staging area before committing or pushing updates.
 
-- Exercise3
+- ### Exercise 3
+
+- [Exercise3](exercise3.md)
+  This documentation focuses on setting up and managing a Java project using Maven and Git. A simple calculator application, configure dependencies, and automate the build process with Maven.
+
 - Exercise4
 - Exercise5
 - Exercise6
