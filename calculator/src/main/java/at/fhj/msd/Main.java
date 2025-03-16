@@ -8,6 +8,7 @@ public class Main {
         double num2 = 5;
 
         // Methodenaufrufe
+        System.out.println("Thomas Feyerl");
         System.out.println("Addition: " + calculator.add(num1, num2));
         System.out.println("Subtraktion: " + calculator.minus(num1, num2));
         System.out.println("Multiplikation: " + calculator.multiply(num1, num2));
