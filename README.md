@@ -56,7 +56,11 @@ Here is a list of exercises related to Markdown and programming:
 - [Exercise3](exercise3.md)
   This documentation focuses on setting up and managing a Java project using Maven and Git. A simple calculator application, configure dependencies, and automate the build process with Maven.
 
-- Exercise4
+- ### Exercise 4
+
+- [Exercise3](exercise4.md)
+  This documentation focuses on setting up and managing a Java project using Maven and Git. A simple calculator application, configure dependencies, and automate the build process with Maven.
+
 - Exercise5
 - Exercise6
 
