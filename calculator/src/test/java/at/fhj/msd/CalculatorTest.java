@@ -17,7 +17,7 @@ Calculator calc;
  @DisplayName("Ergebnis")
  @Test
  void testAdd(){
- assertEquals(-0, calc.add(0,0));
+ assertEquals(0, calc.add(0,0));
  }
  @Test
  void testMinus(){

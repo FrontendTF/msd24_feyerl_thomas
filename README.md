@@ -28,7 +28,11 @@ A simple calculator that supports basic arithmetic operations (addition, subtrac
 
 This project is currently read-only (READ permissions). If you would like to contribute, please contact the creator/author at:
 
-- **E-Mail:** <t.feyerl@gmail.com>
+- **E-Mail:**
+
+<t.feyerl@gmail.com>
+<thomas.feyerl@edu.fh-joanneum.at>
+
 - **GitHub:** [FrontendTF](https://github.com/FrontendTF)
 
 ## License
@@ -58,8 +62,8 @@ Here is a list of exercises related to Markdown and programming:
 
 - ### Exercise 4
 
-- [Exercise3](exercise4.md)
-  This documentation focuses on setting up and managing a Java project using Maven and Git. A simple calculator application, configure dependencies, and automate the build process with Maven.
+- [Exercise4](exercise4.md)
+  This project contains JUnit tests for the `Calculator` class. Übung04 does not require `assertThrows()`, but a test for division by zero has been included as an additional check.
 
 - Exercise5
 - Exercise6

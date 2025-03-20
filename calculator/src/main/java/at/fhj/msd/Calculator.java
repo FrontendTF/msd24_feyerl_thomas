@@ -19,7 +19,7 @@ public class Calculator {
     // Division
     public double divide(double number1, double number2) {
         if (number2 == 0) {
-            throw new ArithmeticException("Division durch Null ist nicht erlaubt!");
+            throw new ArithmeticException("Division by zero is not allowed!");
         }
         return number1 / number2;
     }
