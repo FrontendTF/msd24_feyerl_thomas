@@ -30,8 +30,8 @@ This project is currently read-only (READ permissions). If you would like to con
 
 - **E-Mail:**
 
-<t.feyerl@gmail.com>
-<thomas.feyerl@edu.fh-joanneum.at>
+1. <t.feyerl@gmail.com>
+2. <thomas.feyerl@edu.fh-joanneum.at>
 
 - **GitHub:** [FrontendTF](https://github.com/FrontendTF)
 

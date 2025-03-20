@@ -12,7 +12,7 @@ This is a sample Markdown file for practicing basic Markdown syntax. Various ele
 
 Here is an example image:
 
-![Markdown Image](resources/images/markdown.png)
+![Markdown Image](resources/images/ex1_1.png)
 
 ---
 
