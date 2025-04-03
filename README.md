@@ -19,7 +19,7 @@ A simple calculator that supports basic arithmetic operations (addition, subtrac
 3. Clone the repository:
 
    ```sh
-   git clone <repository-url>
+   git clone <https://github.com/FrontendTF/msd24_feyerl_thomas.git>
    ```
 
 4. Start the project
@@ -55,12 +55,12 @@ Here is a list of exercises related to Markdown and programming:
 - [Exercise2](exercise2.md)
   This documentation provides an overview of fundamental Git commands, explaining their functions and usage in a structured table format. Additionally, it offers practical tips for Git workflow, such as checking the repository status using `git status` to view changes in the working directory and staging area before committing or pushing updates.
 
-- ### Exercise 3
+### Exercise 3
 
 - [Exercise3](exercise3.md)
   This documentation focuses on setting up and managing a Java project using Maven and Git. A simple calculator application, configure dependencies, and automate the build process with Maven.
 
-- ### Exercise 4
+### Exercise 4
 
 - [Exercise4](exercise4.md)
   This project contains comprehensive JUnit tests for the `Calculator` class, covering addition, subtraction, multiplication, division, and factorial operations.  
