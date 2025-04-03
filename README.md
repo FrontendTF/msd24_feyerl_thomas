@@ -63,7 +63,8 @@ Here is a list of exercises related to Markdown and programming:
 - ### Exercise 4
 
 - [Exercise4](exercise4.md)
-  This project contains JUnit tests for the `Calculator` class. Übung04 does not require `assertThrows()`, but a test for division by zero has been included as an additional check.
+  This project contains comprehensive JUnit tests for the `Calculator` class, covering addition, subtraction, multiplication, division, and factorial operations.  
+  Although `assertThrows()` was not required in Übung04, a test for division by zero using `assertThrows(ArithmeticException.class)` has been included as an additional safeguard and best practice.
 
 - Exercise5
 - Exercise6
