@@ -15,33 +15,72 @@ Calculator calc;
  }
 
  @DisplayName("Ergebnis")
+ // Addition
  @Test
- void testAdd(){
+ void testAddZeros(){
  assertEquals(0, calc.add(0,0));
  }
  @Test
- void testMinus(){
+ void testAddPositve(){
+ assertEquals(3, calc.add(2,1));
+ }
+ @Test
+ void testAddNegativ(){
+ assertEquals(-4, calc.add(-2,-2));
+ }
+ // Minus
+ @Test
+ void testMinusPositives(){
  assertEquals(1, calc.minus(4.0,3.0));
  }
  @Test
- void testDivide(){
+ void testMinusNegative(){
+ assertEquals(-1, calc.minus(-4.0,-3.0));
+ }
+ @Test
+ void testMinusZeros(){
+ assertEquals(0, calc.minus(0,0));
+ }
+ // Divide
+ @Test
+ void testDividePositives(){
  assertEquals(2, calc.divide(4.0,2.0));
  }
+ @Test
+ void testDivideNegatives(){
+ assertEquals(-2, calc.divide(-4.0,2.0));
+ }
+ @Test
+ void testDivideZero(){
+ assertThrows(ArithmeticException.class, () -> calc.divide(1, 0));
+ }
+
+// Multiply
  @Test
  void testMultiply(){
  assertEquals(40, calc.multiply(10.0,4.0));
  }
  @Test
- void testFactorial() {
+ void testMultiplyNegative(){
+ assertEquals(-40, calc.multiply(-10.0,4.0));
+ }
+ @Test
+ void testMultiplyZero(){
+ assertEquals(0, calc.multiply(0.0,4.0));
+ }
+ 
+ // Factorial
+ @Test
+ void testFactorialPositive() {
  assertEquals(120, calc.factorial(5)); 
  }
  @Test
- void testFactorial2() {
+ void testFactorialZero() {
  assertEquals(1, calc.factorial(0)); 
  }
  
 @Test
- void testFactorial3() {
+ void testFactorialNegative() {
  assertEquals(0, calc.factorial(-1)); 
  }
 }
