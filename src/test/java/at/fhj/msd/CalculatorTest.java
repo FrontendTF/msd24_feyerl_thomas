@@ -31,6 +31,17 @@ Calculator calc;
  void testMultiply(){
  assertEquals(40, calc.multiply(10.0,4.0));
  }
-
-
+ @Test
+ void testFactorial() {
+ assertEquals(120, calc.factorial(5)); 
+ }
+ @Test
+ void testFactorial2() {
+ assertEquals(1, calc.factorial(0)); 
+ }
+ 
+@Test
+ void testFactorial3() {
+ assertEquals(0, calc.factorial(-1)); 
+ }
 }

@@ -1,3 +1,4 @@
+
 package at.fhj.msd;
 
 public class Main {
@@ -6,6 +7,8 @@ public class Main {
 
         double num1 = 10;
         double num2 = 5;
+    //    int num3 = 100;
+      //  int num4 = 5;
 
         // Methodenaufrufe
         System.out.println("Thomas Feyerl");
@@ -13,6 +16,8 @@ public class Main {
         System.out.println("Subtraktion: " + calculator.minus(num1, num2));
         System.out.println("Multiplikation: " + calculator.multiply(num1, num2));
         System.out.println("Division: " + calculator.divide(num1, num2));
+    //    System.out.println("Fakulität" + calculator.factorial(num3,num4));
+
 
         // Testfall für Division durch Null
         try {
