@@ -72,6 +72,8 @@ Here is a list of exercises related to Markdown and programming:
   This exercise introduces logging with Log4j2. It explains the purpose of logging libraries, describes the available log levels in Log4j, and outlines the various configuration options such as appenders, and layouts.  
   A template configuration file (`log4j2.xml.template`) is provided, while the actual configuration is excluded from version control for portability and flexibility.
 
+- [log4j2.xml.template](src/main/resources/log4j2.xml.template) *(template config file)*
+
 - Exercise6
 
 ## Author
