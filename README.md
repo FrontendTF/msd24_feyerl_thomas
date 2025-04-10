@@ -66,7 +66,12 @@ Here is a list of exercises related to Markdown and programming:
   This project contains comprehensive JUnit tests for the `Calculator` class, covering addition, subtraction, multiplication, division, and factorial operations.  
   Although `assertThrows()` was not required in Übung04, a test for division by zero using `assertThrows(ArithmeticException.class)` has been included as an additional safeguard and best practice.
 
-- Exercise5
+### Exercise5
+
+- [Exercise5](exercise5.md)  
+  This exercise introduces logging with Log4j2. It explains the purpose of logging libraries, describes the available log levels in Log4j, and outlines the various configuration options such as appenders, and layouts.  
+  A template configuration file (`log4j2.xml.template`) is provided, while the actual configuration is excluded from version control for portability and flexibility.
+
 - Exercise6
 
 ## Author
