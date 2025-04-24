@@ -74,7 +74,11 @@ Here is a list of exercises related to Markdown and programming:
 
 - [log4j2.xml.template](src/main/resources/log4j2.xml.template) *(template config file)*
 
-- Exercise6
+### Exercise6
+
+- [Exercise6](exercise6.md)  
+ This documentation explains how to configure and generate a Maven Site, including the integration of custom Markdown pages, JavaDoc API documentation, and JaCoCo test coverage reports.  
+  It also outlines the purpose of the `site.xml` and `pom.xml` files and highlights the required and recommended plugins for building professional project documentation using Maven.
 
 ## Author
 
